@@ -1,0 +1,82 @@
+[
+  {
+    "title": "汝、星のごとく",
+    "category": "cate1",
+    "images": {
+      "thumb": "covers/1t.jpg",
+      "large": "covers/1.jpg"
+    }
+  },
+  {
+    "title": "ラブカは静かに弓を持つ",
+    "category": "cate2",
+    "images": {
+      "thumb": "covers/2t.jpg",
+      "large": "covers/2.jpg"
+    }
+  },
+  {
+    "title": "光のとこにいてね",
+    "category": "cate2",
+    "images": {
+      "thumb": "covers/3t.jpg",
+      "large": "covers/3.jpg"
+    }
+  },
+  {
+    "title": "爆弾",
+    "category": "cate3",
+    "images": {
+      "thumb": "covers/4t.jpg",
+      "large": "covers/4.jpg"
+    }
+  },
+  {
+    "title": "月の立つ林で",
+    "category": "cate4",
+    "images": {
+      "thumb": "covers/5t.jpg",
+      "large": "covers/5.jpg"
+    }
+  },
+  {
+    "title": "君のクイズ",
+    "category": "cate3",
+    "images": {
+      "thumb": "covers/6t.jpg",
+      "large": "covers/6.jpg"
+    }
+  },
+  {
+    "title": "方舟",
+    "category": "cate1",
+    "images": {
+      "thumb": "covers/7t.jpg",
+      "large": "covers/7.jpg"
+    }
+  },
+  {
+    "title": "宙ごはん",
+    "category": "cate4",
+    "images": {
+      "thumb": "covers/8t.jpg",
+      "large": "cover/8.jpg"
+    }
+  },
+  {
+    "title": "川のほとりに立つ者は",
+    "category": "cate2",
+    "images": {
+      "thumb": "covers/9t.jpg",
+      "large": "covers/9.jpg"
+    }
+  },
+  {
+    "title": "#真相をお話しします",
+    "category": "cate3",
+    "images": {
+      "thumb": "covers/10t.jpg",
+      "large": "covers/10.jpg"
+    }
+  }
+]
